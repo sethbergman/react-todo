@@ -1,5 +1,7 @@
 # React TodoMVC Example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/react-todo.svg)](https://greenkeeper.io/)
+
 > React is a JavaScript library for creating user interfaces. Its core principles are declarative code, efficiency, and flexibility. Simply specify what your component looks like and React will keep it up-to-date when the underlying data changes.
 
 > _[React - facebook.github.io/react](http://facebook.github.io/react)_
